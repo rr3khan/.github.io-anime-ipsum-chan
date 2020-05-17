@@ -1,0 +1,56 @@
+
+            /* （ミ￣ー￣ミ）（ミ￣ー￣ミ） ┐(‘～`；)┌  o(╥﹏╥)o இ_இ*/
+
+            /*----------------- Global Styles-------------------------------*/
+
+            body {
+                text-align: center;
+                margin: 0;
+                padding: 0;
+                background-color: honeydew;
+                /* background-color: #343434; */
+                
+        }
+
+            /*-------------------Other Styles-------------------------------*/
+
+            header {
+                background-color: #343434;
+                /* color:aliceblue;  */
+                color: #706677;
+                margin:0 auto;
+            }
+
+            h1 {
+                color: aliceblue;
+                padding: 10px;
+            }
+
+        
+            img {
+                /* padding: 10px 0;
+                margin: 0; */
+            }
+
+            button {
+                display: block;
+                /* align-items: center; */
+                margin: 20px auto;
+                border: 1px solid #2c2b2b;
+                padding: 8px 30px;
+                line-height: 1;
+                border-radius: 5px;
+            }
+
+            button:hover {
+                background-color: gray;
+                cursor:pointer;
+            }
+
+            .quotebox p {
+                width: 600px;
+                margin: 0 auto;
+                text-align: left;
+                padding: 10px;
+                
+            }
